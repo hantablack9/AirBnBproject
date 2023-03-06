@@ -1,2 +1,2 @@
 # AirBnBproject
-Comaparative analysis of business models of AirBnBd Bookings.com
+Comaparative analysis of business models of AirBnB and Bookings.com
